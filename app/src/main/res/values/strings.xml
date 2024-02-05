@@ -1,0 +1,6 @@
+<resources>
+    <string name="reminders_notification_channel_id">your_channel_id</string>
+    <string name="reminders_notification_channel_name">Your Channel Name</string>
+    <string name="title_notification_reminder">Reminder Title</string>
+    <string name="description_notification_reminder">Reminder Description</string>
+</resources>
